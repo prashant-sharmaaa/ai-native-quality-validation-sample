@@ -10,3 +10,8 @@ environment_id: 276022
 
 # Test URL for automation
 # test_url: "https://demo.lambdatestinternal.com"
+
+# Allowed KaneAI triggers
+allowed_triggers:
+  - onPullRequestOpened
+  - onIssueCommentCreated
